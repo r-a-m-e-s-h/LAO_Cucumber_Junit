@@ -29,12 +29,17 @@ public class LoginPage {
 		name.sendKeys(uname);
 	}
 
-	public void getPwd(String txt) {
-		 pwd.sendKeys(txt);;
+	public void getPwd(String password) {
+		 pwd.sendKeys(password);;
 	}
 
 	public void clickLoginBtn() {
 		 lgbtn.click();;
+	}
+	
+	public void getTitle()
+	{
+		System.out.println("The title of the page is : "+driver.getTitle());
 	}
 	
 	

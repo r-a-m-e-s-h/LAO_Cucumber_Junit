@@ -30,7 +30,7 @@ public class ReadConfig {
 
 		constants.UserName = pro.getProperty("UserName");
 
-		constants.PassWord = pro.getProperty("Password");
+		constants.PassWord = pro.getProperty("PassWord");
 
 
 

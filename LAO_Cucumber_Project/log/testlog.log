@@ -1,0 +1,51 @@
+2023-10-11 23:39:35,330 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-11 23:39:35,340 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-11 23:39:50,277 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-11 23:44:09,138 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-11 23:44:09,147 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-11 23:44:17,867 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:15:40,712 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:15:40,723 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:15:49,609 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:15:51,990 - Bdd-Cucumber practise -INFO - driver closed
+2023-10-12 00:16:27,756 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:16:27,780 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:16:35,892 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:17:35,006 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:17:35,015 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:17:42,980 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:19:20,293 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:19:20,304 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:19:29,595 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:19:32,672 - Login-Page -INFO - User name entered
+2023-10-12 00:25:31,918 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:25:31,929 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:25:40,766 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:25:45,670 - Login-Page -INFO - User name entered
+2023-10-12 00:27:34,825 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:27:34,840 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:27:46,211 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:27:48,996 - Login-Page -INFO - User name entered
+2023-10-12 00:29:11,557 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:29:11,567 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:29:21,000 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:29:23,689 - Login-Page -INFO - User name entered
+2023-10-12 00:29:23,891 - Login-Page -INFO - password entered
+2023-10-12 00:29:25,073 - Login-Page -INFO - login button clicked
+2023-10-12 00:29:25,086 - Login-Page -INFO - The login page title taken
+2023-10-12 00:30:49,434 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:30:49,446 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:30:58,098 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:31:00,773 - Login-Page -INFO - User name entered
+2023-10-12 00:31:00,987 - Login-Page -INFO - password entered
+2023-10-12 00:31:01,095 - Login-Page -INFO - login button clicked
+2023-10-12 00:31:02,131 - Login-Page -INFO - The login page title taken
+2023-10-12 00:31:02,581 - Bdd-Cucumber practise -INFO - driver closed
+2023-10-12 00:31:24,574 - Bdd-Cucumber practise -INFO - initiating the common methods
+2023-10-12 00:31:24,584 - Bdd-Cucumber practise -INFO - initiating the driver..... driver is NULLLLLL 
+2023-10-12 00:31:35,576 - Bdd-Cucumber practise -INFO -  chrome browser launched
+2023-10-12 00:31:38,303 - Login-Page -INFO - User name entered
+2023-10-12 00:31:38,540 - Login-Page -INFO - password entered
+2023-10-12 00:31:38,633 - Login-Page -INFO - login button clicked
+2023-10-12 00:31:39,695 - Login-Page -INFO - The login page title taken
+2023-10-12 00:31:40,140 - Bdd-Cucumber practise -INFO - driver closed
